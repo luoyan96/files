@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "workspaceId": "acceptcat-demo",
+  "title": "示例实验室",
+  "projects": [
+    {
+      "id": "project_demo",
+      "name": "2026项目申报",
+      "description": "项目相关的要求、模板和参考素材。公开演示资料。"
+    },
+    {
+      "id": "patent_demo",
+      "name": "专利申请",
+      "description": "尚未登记资料"
+    },
+    {
+      "id": "meeting_demo",
+      "name": "组会汇报",
+      "description": "尚未登记资料"
+    }
+  ],
+  "entries": [
+    {
+      "id": "demo_background",
+      "projectId": "project_demo",
+      "name": "项目背景与研究目标.md",
+      "purpose": "background",
+      "summary": "公开合成示例 · 仅验证资料治理与取用链路，不含真实科研结论",
+      "maintainer": "示例维护者",
+      "recommended": false,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/项目背景与研究目标.md",
+        "sha256": "0a47d6b36d9d0a03b2476fd1417324bcafd18b08c77b8236a3519c1e3c3b6771"
+      }
+    },
+    {
+      "id": "demo_requirements",
+      "projectId": "project_demo",
+      "name": "项目书写作要求.md",
+      "purpose": "rule",
+      "summary": "公开合成示例 · 仅验证资料治理与取用链路，不含真实科研结论",
+      "maintainer": "示例维护者",
+      "recommended": true,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/项目书写作要求.md",
+        "sha256": "bb9b11cfed56dccf8d10f7382e4a5e69d8c778aeace311b4b8b75b3cdf2e2d19"
+      }
+    },
+    {
+      "id": "demo_template",
+      "projectId": "project_demo",
+      "name": "申报汇报提纲.md",
+      "purpose": "template",
+      "summary": "公开合成示例 · 可复用的汇报章节与验收提纲",
+      "maintainer": "示例维护者",
+      "recommended": true,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/申报汇报提纲.md",
+        "sha256": "1fcc8d668ccabf8f8efde36ef43e9abc7af3c124b98245aad791b1d2547f632e"
+      }
+    },
+    {
+      "id": "demo_figure",
+      "projectId": "project_demo",
+      "name": "图表使用要求.md",
+      "purpose": "figure",
+      "summary": "公开合成示例 · 仅验证资料治理与取用链路，不含真实科研结论",
+      "maintainer": "示例维护者",
+      "recommended": false,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/图表使用要求.md",
+        "sha256": "904e692d33588f0080e78a63dffcaf8ce2eaf384a4f3e93050ad18e2f883429b"
+      }
+    },
+    {
+      "id": "demo_evidence",
+      "projectId": "project_demo",
+      "name": "示例材料清单.csv",
+      "purpose": "evidence",
+      "summary": "公开合成示例 · 仅验证资料治理与取用链路，不含真实科研结论",
+      "maintainer": "示例维护者",
+      "recommended": false,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/示例材料清单.csv",
+        "sha256": "4d7f2dc26b4a1e7732696adddb9a1ea200ff5c64a8897cf938e9dd9be3666f72"
+      }
+    },
+    {
+      "id": "demo_archive",
+      "projectId": "project_demo",
+      "name": "成果归档说明.md",
+      "purpose": "output",
+      "summary": "公开合成示例 · 仅验证资料治理与取用链路，不含真实科研结论",
+      "maintainer": "示例维护者",
+      "recommended": false,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/成果归档说明.md",
+        "sha256": "96b46615f02e45a5d24893e0dc7e9a83712bfc28e7678b249d8645562125ed68"
+      }
+    }
+  ]
+}
