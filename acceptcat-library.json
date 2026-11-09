@@ -49,20 +49,6 @@
       }
     },
     {
-      "id": "demo_template",
-      "projectId": "project_demo",
-      "name": "申报汇报提纲.md",
-      "purpose": "template",
-      "summary": "公开合成示例 · 可复用的汇报章节与验收提纲",
-      "maintainer": "示例维护者",
-      "recommended": true,
-      "source": {
-        "kind": "git",
-        "path": "2026项目申报/申报汇报提纲.md",
-        "sha256": "1fcc8d668ccabf8f8efde36ef43e9abc7af3c124b98245aad791b1d2547f632e"
-      }
-    },
-    {
       "id": "demo_figure",
       "projectId": "project_demo",
       "name": "图表使用要求.md",
@@ -102,6 +88,20 @@
         "kind": "git",
         "path": "2026项目申报/成果归档说明.md",
         "sha256": "96b46615f02e45a5d24893e0dc7e9a83712bfc28e7678b249d8645562125ed68"
+      }
+    },
+    {
+      "id": "demo_template",
+      "projectId": "project_demo",
+      "name": "申报汇报提纲.md",
+      "purpose": "template",
+      "summary": "公开合成示例 · 可复用的汇报章节与验收提纲；团队资料工作区验收更新。",
+      "maintainer": "示例维护者",
+      "recommended": true,
+      "source": {
+        "kind": "git",
+        "path": "2026项目申报/申报汇报提纲.md",
+        "sha256": "1fcc8d668ccabf8f8efde36ef43e9abc7af3c124b98245aad791b1d2547f632e"
       }
     }
   ]
